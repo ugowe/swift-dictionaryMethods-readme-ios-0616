@@ -65,8 +65,8 @@ if let godfatherMovies = movies["The Godfather"] {
 // MODIFYING VALUES
 
 if var films = movies["The Fast and the Furious"] {
-    films.append("Faster! 9")
-    films.append("THE FASTEST 10")
+    films.append("Faster ! 9")
+    films.append("THE FASTEST AND THE MOST FURIOUS 10")
     
     movies["The Fast and the Furious"] = films
 }
